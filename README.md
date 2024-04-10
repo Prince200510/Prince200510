@@ -52,13 +52,13 @@
 </a>
 </p>
 <h2 align="left">Education:</h2>
-### Diploma in Computer Engineering
-**Thakur Polytechnic**, Mumbai *(2021 - 2024)*
-
+ <h3 align="left"> Diploma in Computer Engineering </h3>
+<p>Thakur Polytechnic, Mumbai (2021 - 2024)
+</p> 
 - Relevant Coursework: Software Engineering, Data Structures and Algorithms, Web Development
 
 ### School 
-**St. Mary's Malankakara High School**, Mumbai *(2021)*
+ <h3 align="left"> St. Mary's Malankakara High School, Mumbai (2021) </h3>
 - Board: Maharashtra State Board
 
 
