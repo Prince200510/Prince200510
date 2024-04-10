@@ -50,6 +50,16 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-left: 20px;">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </a>
-
 </p>
+## Education
+
+### Diploma in Computer Engineering
+**Thakur Polytechnic**, Mumbai *(2021 - 2024)*
+
+- Relevant Coursework: Software Engineering, Data Structures and Algorithms, Web Development
+
+### High School Diploma
+**St. Mary's Malankakara High School**, Mumbai *(2017 - 2021)*
+- Board: Maharashtra State Board
+
 
