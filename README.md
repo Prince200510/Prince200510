@@ -81,6 +81,12 @@
   <a href="https://github.com/Prince200510">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince200510&repo=AI-ML&theme=radical&hide_border=true" alt="Online Examination Portal" />
   </a>
+  <a href="https://github.com/Prince200510">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince200510&repo=Python_All_Basic_Code&theme=radical&hide_border=true" alt="Python_All_Basic_Code" />
+  </a>
+  <a href="https://github.com/Prince200510">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince200510&repo=Ai-Turf-Finder&theme=radical&hide_border=true" alt="Ai-Turf-Finder" />
+  </a>
 </div>
 
 ### 🔥 Key Projects
