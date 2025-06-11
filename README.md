@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prince200510&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<!--   <img src="https://komarev.com/ghpvc/?username=Prince200510&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> -->
   <img src="https://img.shields.io/github/followers/Prince200510?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
@@ -79,7 +79,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince200510&repo=AI-Fraud-Detection&theme=radical&hide_border=true" alt="AI Fraud Detection" />
   </a>
   <a href="https://github.com/Prince200510">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince200510&repo=Online-Examination-Portal&theme=radical&hide_border=true" alt="Online Examination Portal" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prince200510&repo=AI-ML&theme=radical&hide_border=true" alt="Online Examination Portal" />
   </a>
 </div>
 
