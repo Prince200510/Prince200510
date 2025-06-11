@@ -151,14 +151,6 @@
 
 ---
 
-## 💻 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Prince200510&theme=radical&hide_border=true" alt="Coding Activity" />
-</div>
-
----
-
 <div align="center">
   <h3>🚀 "Code is like humor. When you have to explain it, it's bad." 🚀</h3>
   <p><strong>Thanks for visiting my profile! Let's build something amazing together! 🌟</strong></p>
