@@ -28,3 +28,14 @@ At 0 seconds the name and badge are intentionally entering. The static copies im
 - Email: syntax checked; no email sent and delivery not tested.
 
 This is local browser verification, not a live test of GitHub's image proxy or every GitHub client. The package contains no contribution service, live stats badge or guessed counts. Social cards themselves are not links when embedded as images; the README places real links beneath them.
+
+## Revision 2 — themed project cards
+
+Replaced the Markdown project table with three individually clickable SVG cards and a matching section heading. Added Light, Dark and Auto links above the hero; explicit modes open their README files, while the default README uses theme-aware picture sources. The local preview uses functional in-page buttons.
+
+- All 39 SVGs parse; local IDs, references and paths validated. Each embeds both licensed WOFF2 fonts. No scripts or external assets in any SVG.
+- Light and dark variants of all four new project graphics rendered at 0, 2, 5, 9 and 13 seconds. Static copies and real image embedding reviewed.
+- Both full-page theme previews rendered, all 9 content images loaded, project card text bounds passed, and a 375px preview had no horizontal overflow.
+- Auto mode responds to a color-scheme change; explicit Light and Dark buttons select the corresponding assets. Reduced motion selects static copies. Zero HTTP/HTTPS rendering requests.
+- Minor low-contrast icon backing in the light interests card was corrected.
+- GitHub was not modified. Full upload instructions and an exact file list are in UPLOAD.md. Image cache tags updated to ?v=2.

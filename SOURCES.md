@@ -14,3 +14,6 @@ Processor, terminal, circuit, envelope, barcode and lanyard graphics are origina
 Name, technologies, project descriptions, GitHub username and social URLs: user-supplied README. Student role, TCET, Mumbai, cycling roles and interests: confirmed by the user on 2026-10-06. YouTube and Topmate omitted. Historical CGPA, contribution totals, streaks, active days, stars and repository counts are deliberately omitted because no current dated verification was supplied. No employment or availability claim added.
 
 Repository descriptions are intentionally conservative; no throughput, security or production-readiness claims. Link check results are documented in VALIDATION.md.
+
+## Revision 2
+Selected projects use original vector cards, each linked by its outer HTML anchor. Light versions share the original embedded fonts and licensed icons. Sun, moon and auto-theme button marks are original generic UI geometry. GitHub theme-aware picture support: https://github.blog/changelog/2022-08-15-specify-theme-context-for-images-in-markdown-ga/ .
