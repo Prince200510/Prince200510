@@ -4,8 +4,6 @@
   <a href="README.md"><img src="assets/theme-auto.svg?v=2" width="118" height="40" alt="Auto theme" /></a>
 </p>
 
-<p align="center"><sub>Light / Dark opens that README version. Auto follows your GitHub theme.</sub></p>
-
 <picture>
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="assets/light/static/hero.svg?v=2" />
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/static/hero.svg?v=2" />
